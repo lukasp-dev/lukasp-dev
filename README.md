@@ -24,5 +24,5 @@ Welcome to my GitHub! I'm a CS student at [Georgia Tech](https://www.gatech.edu/
 <!-- Footer with social links -->
 ### 🔗 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasp-dev){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewookpark/){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasp-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewookpark/)
