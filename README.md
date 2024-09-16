@@ -1,13 +1,13 @@
 ## Hi there, I'm Lukas Park 👋
 
 <!-- Introduction -->
-Welcome to my GitHub! I'm a passionate developer who enjoys problem-solving and building meaningful projects that could potentially help people.
+Welcome to my GitHub! I'm a CS student [@GT](https://www.gatech.edu/) who enjoys problem-solving and building meaningful projects that could potentially help people.
 
-- 🔭 **I’m currently working on:** Building scalable web applications using TypeScript, React, and Spring Boot.
+- 🔭 **I’m currently working on:** Building Coding Bootcamp platform for Cambodia using TypeScript, React, and Spring Boot.
 - 🌱 **I’m currently learning:** Advanced algorithms and Rust.
 - 👯 **I’m looking to collaborate on:** Open source projects that aim to improve developer productivity.
 - 💬 **Ask me about:** Web development, full-stack projects, and algorithm design.
-- 📫 **How to reach me:** [lukas.park@gmail.com](mailto:jewook.park@gatech.edu)
+- 📫 **How to reach me:** [jewook.park@gatech.edu](mailto:jewook.park@gatech.edu)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love playing basketball and competing in coding challenges!
 
