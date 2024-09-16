@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a CS student at [Georgia Tech](https://www.gatech.edu/
 - 💬 **Ask me about:** Web development, full-stack projects, and algorithm design.
 - 📫 **How to reach me:** [jewook.park@gatech.edu](mailto:jewook.park@gatech.edu)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love playing basketball and competing in coding challenges!
+- ⚡ **Fun fact:** I love drawing and you can find my drawings [here](https://www.instagram.com/bit_of_lux/)
 
 <!-- Leetcode & Solved.ac Stats -->
 ### 📊 My Stats
