@@ -1,9 +1,9 @@
 ## Hi there, I'm Lukas Park 👋
 
 <!-- Introduction -->
-Welcome to my GitHub! I'm a CS student [@GT](https://www.gatech.edu/) who enjoys problem-solving and building meaningful projects that could potentially help people.
+Welcome to my GitHub! I'm a CS student at [Georgia Tech](https://www.gatech.edu/) who enjoys problem-solving and building meaningful projects that could potentially help people.
 
-- 🔭 **I’m currently working on:** Building Coding Bootcamp platform for Cambodia using TypeScript, React, and Spring Boot.
+- 🔭 **I’m currently working on:** Building a coding bootcamp platform for Cambodia using TypeScript, React, and Spring Boot.
 - 🌱 **I’m currently learning:** Advanced algorithms and Rust.
 - 👯 **I’m looking to collaborate on:** Open source projects that aim to improve developer productivity.
 - 💬 **Ask me about:** Web development, full-stack projects, and algorithm design.
@@ -24,5 +24,5 @@ Welcome to my GitHub! I'm a CS student [@GT](https://www.gatech.edu/) who enjoys
 <!-- Footer with social links -->
 ### 🔗 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasp-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewookpark/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasp-dev){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewookpark/){:target="_blank"}
