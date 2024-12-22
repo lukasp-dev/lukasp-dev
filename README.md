@@ -11,13 +11,6 @@ Welcome to my GitHub! I'm a CS student at [Georgia Tech](https://www.gatech.edu/
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love drawing and you can find my drawings [here](https://www.instagram.com/bit_of_lux/)
 
-<!-- Leetcode & Solved.ac Stats -->
-### 📊 My Stats
-
-| Leetcode | Solved.ac |
-|---|---|
-| ![Leetcode Stats](https://leetcard.jacoblin.cool/GenuineLukas?theme=unicorn&font=Karma&ext=activity) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woogi22)](https://solved.ac/woogi22/) |
-
 <!-- Add your favorite quote or a final statement -->
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
