@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="left">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hi there!" width="150"/>
-  
+  ![lukaspark](https://github.com/user-attachments/assets/f8835370-63fc-433a-9051-17656f887e6a)
+
   <h1> Hi, I'm JEWOOK PARK</h1>
   <p>💻 Aspiring Software Engineer | Georgia Institute of Technology</p>
   
