@@ -4,7 +4,6 @@
 <div align="left">
   <h1> Hi, I'm JEWOOK PARK</h1>
   <p>💻 Aspiring Software Engineer | Georgia Institute of Technology</p>
-  ![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
   
   <!-- Social Icons -->
   <p>
@@ -22,6 +21,9 @@
     </a>
   </p>
 </div>
+
+
+  ![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
 
 
 <!-- Technical Skills Section -->
