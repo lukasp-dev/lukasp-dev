@@ -1,8 +1,6 @@
+![Lukas Park GIF](./lukaspark.gif)
 <!-- Header -->
 <div align="left">
-  <h1> Hi, I'm JEWOOK PARK</h1>
-  <p>💻 Aspiring Software Engineer | Georgia Institute of Technology</p>
-  
   <!-- Social Icons -->
   <p>
     <a href="https://jewook.dev" target="_blank" style="margin-right:10px;">
