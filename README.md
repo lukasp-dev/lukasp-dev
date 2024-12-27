@@ -16,17 +16,6 @@
 
 ---
 
-<!-- Education Section -->
-## 🎓 Education
-
-**Georgia Institute of Technology**  
-*Bachelor of Science in Computer Science - Honors Program*  
-**GPA:** 4.0/4.0  
-*Atlanta, GA*  
-*Expected Graduation: May 2026*
-
----
-
 <!-- Technical Skills Section -->
 ## 🛠️ Technical Skills
 
@@ -63,54 +52,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
-
-<!-- Experience Section -->
-## 💼 Experience
-
-### Stride Labs
-**Software Engineer Intern**  
-*October 2024 - Present*
-
-- **Frontend Revamp:** Enhanced frontend with 3D visualization using Three.js for seamless user interaction and AI-driven functionality.
-- **User Report Optimization:** Integrated GCP and Linear APIs to optimize user data processing and notification systems using an Express.js module.
-
-### Gallery SOMA
-**Software Engineer Intern**  
-*May 2024 - August 2024*
-
-- **SOMA Artistry:** Developed a React Redux frontend web application, boosting online sales by 30%.
-- **Optimization:** Implemented OAuth 2.0 with JWT authentication and reduced server costs by 30% through local caching.
-- **SOMA Notify:** Engineered a desktop application with Electron and AWS, achieving 95% time savings in customer communications.
-
-### 360 Energy
-**Software Engineer Intern**  
-*March 2024 - May 2024*
-
-- **Dashboard for Stores:** Developed a real-time MERN stack dashboard for monitoring battery levels and charging status using MongoDB Change Streams.
-
----
-
-<!-- Projects Section -->
-## 🚀 Projects
-
-### UCamCode Startup
-*July 2024 - Present*  
-**Technologies:** TypeScript, React, Java, Spring Boot, Docker, Jenkins, GitHub Actions, AWS EC2, S3, RDS
-
-- **Project Management:** Co-founded a coding bootcamp company to bridge the education gap in Cambodia. Conducted interviews with 50+ students and hosted weekly Agile-style meetings.
-- **Web Development:** Architected a Dockerized Spring Boot backend API on AWS, automated CI/CD pipelines with GitHub Actions/Jenkins, and implemented OAuth 2.0 for secure user authentication.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lukasp-dev&repo=UCamCode-Startup&theme=tokyonight)](https://github.com/lukasp-dev/UCamCode-Startup)
-
----
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 ![Lukasp-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight)
+
+---
+
+<!-- Resume Section -->
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1GOaf55w2TjRQOa7pwpw1qLtJHByJSvcm/view?pli=1)
 
 ---
 
