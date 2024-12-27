@@ -1,7 +1,8 @@
+<!-- GIF 이미지 삽입 -->
+![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
+
 <!-- Header -->
 <div align="left">
-  ![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
-
   <h1> Hi, I'm JEWOOK PARK</h1>
   <p>💻 Aspiring Software Engineer | Georgia Institute of Technology</p>
   
