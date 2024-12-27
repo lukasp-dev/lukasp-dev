@@ -1,4 +1,7 @@
-![Lukas Park GIF](./lukaspark.gif)
+<a href="https://jewook.dev" target="_blank" rel="noopener noreferrer">
+    <img src="./lukaspark.gif" alt="Lukas Park GIF" style="cursor: pointer;">
+</a>
+
 <!-- Header -->
 <div align="left">
   <!-- Social Icons -->
