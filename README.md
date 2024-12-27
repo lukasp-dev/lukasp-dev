@@ -60,14 +60,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+--
 
 <!-- Resume Section -->
 ## 📄 Resume
 
 [![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1GOaf55w2TjRQOa7pwpw1qLtJHByJSvcm/view?pli=1)
 
----
+--
 
 <!-- Footer -->
 ## 📫 Let's Connect
@@ -87,7 +87,7 @@
   </a>
 </div>
 
----
+--
 
 <!-- Profile Views -->
 <div align="left">
