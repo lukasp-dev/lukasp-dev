@@ -1,5 +1,5 @@
 <!-- GIF 이미지 삽입 -->
-![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
+<img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif" alt="Lukas Park GIF" width="600"/>
 
 <!-- Header -->
 <div align="left">
