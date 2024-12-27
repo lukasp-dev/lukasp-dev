@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="left">
-  ![lukaspark](https://github.com/user-attachments/assets/f8835370-63fc-433a-9051-17656f887e6a)
+  ![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
 
   <h1> Hi, I'm JEWOOK PARK</h1>
   <p>💻 Aspiring Software Engineer | Georgia Institute of Technology</p>
