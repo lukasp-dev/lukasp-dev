@@ -1,5 +1,3 @@
-<!-- GIF 이미지 삽입 -->
-![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
 <!-- Header -->
 <div align="left">
   <h1> Hi, I'm JEWOOK PARK</h1>
@@ -21,9 +19,6 @@
     </a>
   </p>
 </div>
-
-
-  ![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
 
 
 <!-- Technical Skills Section -->
