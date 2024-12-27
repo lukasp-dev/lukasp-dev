@@ -2,7 +2,7 @@
 <div align="left">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hi there!" width="150"/>
   
-  <h1>👋 Hi, I'm JEWOOK PARK</h1>
+  <h1> Hi, I'm JEWOOK PARK</h1>
   <p>💻 Aspiring Software Engineer | Georgia Institute of Technology</p>
   
   <!-- Social Icons -->
