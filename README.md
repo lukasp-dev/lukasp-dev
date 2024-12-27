@@ -1,6 +1,5 @@
 <!-- GIF 이미지 삽입 -->
-<img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif" alt="Lukas Park GIF" width="600"/>
-
+![Lukas Park GIF](https://lukas-portfolio.s3.us-east-2.amazonaws.com/lukaspark.gif)
 <!-- Header -->
 <div align="left">
   <h1> Hi, I'm JEWOOK PARK</h1>
