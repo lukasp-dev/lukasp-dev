@@ -61,7 +61,7 @@
 <!-- Resume Section -->
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1GOaf55w2TjRQOa7pwpw1qLtJHByJSvcm/view?pli=1)
+[![Resume]([https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square&logo=google-drive](https://drive.google.com/file/d/1qa2VXrf62Jhd29R2SA_MWhOWA_2cJW14/view?usp=sharing))]
 
 
 <!-- Footer -->
