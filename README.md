@@ -58,15 +58,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
+
 <!-- Resume Section -->
 ## 📄 Resume
 
 [![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1qa2VXrf62Jhd29R2SA_MWhOWA_2cJW14/view?usp=sharing)
-
-<!--github status-->
-### 📊 GitHub Stats
-[![Jewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=default)](https://github.com/lukasp-dev/github-readme-stats)
-
 
 <!-- Footer -->
 ## 📫 Let's Connect
