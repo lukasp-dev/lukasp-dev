@@ -63,6 +63,11 @@
 
 [![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1qa2VXrf62Jhd29R2SA_MWhOWA_2cJW14/view?usp=sharing)
 
+<!--github status-->
+### 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=default)  
+[![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=default)](https://github.com/jineoni/github-readme-stats)
+
 
 <!-- Footer -->
 ## 📫 Let's Connect
