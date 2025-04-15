@@ -2,9 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
 </p>
 
-# Hi, I'm Jewook Park
-
-Hello! I’m currently pursuing a **Bachelor of Science in Computer Science** at the **Georgia Institute of Technology**, focusing on **Software Systems**, particularly in **Machine Learning** and **Large-Scale Systems**.
+Welcome! I’m currently pursuing a **Bachelor of Science in Computer Science** at the **Georgia Institute of Technology**, focusing on **Software Systems**, particularly in **Machine Learning** and **Large-Scale Systems**.
 
 I enjoy building software that helps people. I'm especially interested in implementing **reliable backend systems** that efficiently deliver the right content. In past internships, I focused on **structuring backend systems** to support these goals.
 
