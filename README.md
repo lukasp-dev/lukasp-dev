@@ -13,7 +13,7 @@ I value writing **clean** and **easy-to-understand** code for my teammates. I be
 📧 jewook.park.dev@gmail.com
 
 ## Languages
-Java, C++, JavaScript, Python
+Java, C++, JavaScript, TypeScript, C#, Python
 
 ## Framework & Library
 - Backend: Spring Boot, FastAPI, Express, Node.js, Next.js (SSR)  
