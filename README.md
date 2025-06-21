@@ -16,7 +16,7 @@ I value writing **clean** and **easy-to-understand** code for my teammates. I be
 Java, C++, JavaScript, TypeScript, C#, Python
 
 ## Framework & Library
-- Backend: Spring Boot, FastAPI, Express, Node.js, Next.js (SSR)  
+- Backend: Spring Boot, ASP.NET, FastAPI, Express, Node.js, Next.js (SSR)  
 - Frontend: Next.js (Client-side), React, TailwindCSS, Styled Components  
 - Cloud: AWS, Google Cloud Platform  
 - DevOps: Docker, Nginx, Jenkins, GitHub Actions  
