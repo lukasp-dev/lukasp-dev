@@ -4,8 +4,7 @@
 
 Welcome! I’m currently pursuing a **Bachelor of Science in Computer Science** at the **Georgia Institute of Technology**, focusing on **Software Systems**, particularly in **Machine Learning** and **Large-Scale Systems**.
 
-I enjoy building software that helps people. I'm especially interested in implementing **reliable backend systems** that efficiently deliver the right content. In past internships, I focused on **structuring backend systems** to support these goals.
-
+I enjoy building software that helps people. I'm especially interested in implementing **reliable backend systems** that efficiently deliver the right content. In past internships, I delivered end-to-end solutions by handling all aspects of full-stack development, including UI/UX design, frontend implementation, backend architecture, and DevOps planning.
 I aspire to become a **Software Engineer** who not only understands how systems work but also why they work that way — applying that knowledge to drive meaningful **business impact**.
 
 I value writing **clean** and **easy-to-understand** code for my teammates. I believe **good communication** and **collaboration** are key to building great software together. Feel free to reach out to me by email!
