@@ -17,7 +17,7 @@ Java, C++, JavaScript, TypeScript, C#, Python
 
 ## Framework & Library
 - Backend: Spring Boot, ASP.NET, FastAPI, Express, Node.js, Next.js (SSR)  
-- Frontend: Next.js (Client-side), React, TailwindCSS, Styled Components  
+- Frontend: Next.js (Client-side), React, TailwindCSS, Three.js, Styled Components  
 - Cloud: AWS, Google Cloud Platform  
 - DevOps: Docker, Nginx, Jenkins, GitHub Actions  
 - Machine Learning: Scikit-Learn, PyTorch, TensorFlow  
