@@ -4,6 +4,9 @@
 
 Welcome! I’m currently pursuing a **Bachelor of Science in Computer Science** at the **Georgia Institute of Technology**, focusing on **Software Systems**, particularly in **Machine Learning** and **Large-Scale Systems**.
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasp-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I enjoy building software that helps people. I'm especially interested in implementing **reliable backend systems** that efficiently deliver the right content. In past internships, I delivered end-to-end solutions by handling all aspects of full-stack development, including UI/UX design, frontend implementation, backend architecture, and DevOps planning.
 I aspire to become a **Software Engineer** who not only understands how systems work but also why they work that way — applying that knowledge to drive meaningful **business impact**.
 
