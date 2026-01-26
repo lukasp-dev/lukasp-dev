@@ -26,5 +26,5 @@ Java, C++, JavaScript, TypeScript, C#, Python
 [View My Resume](https://drive.google.com/file/d/1b00ZbheffTO3E_rrHK2hl_EoERU7-UbA/view?usp=sharing)
 
 ## Personal Website
-[https://jewook.dev](https://jewook.dev)
+[https://jewook.com](https://jewook.com)
 
