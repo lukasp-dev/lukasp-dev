@@ -22,9 +22,4 @@ Java, C++, JavaScript, TypeScript, C#, Python
 - DevOps: Docker, Nginx, Jenkins, GitHub Actions  
 - Machine Learning: Scikit-Learn, PyTorch, TensorFlow  
 
-## Resume
-[View My Resume](https://drive.google.com/file/d/1b00ZbheffTO3E_rrHK2hl_EoERU7-UbA/view?usp=sharing)
-
-## Personal Website
-[https://jewook.com](https://jewook.com)
 
