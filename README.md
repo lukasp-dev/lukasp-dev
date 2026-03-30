@@ -12,14 +12,27 @@ I value writing **clean** and **easy-to-understand** code for my teammates. I be
 ## Contact
 📧 jewook.park.dev@gmail.com
 
-## Languages
-Java, C++, JavaScript, TypeScript, C#, Python
+### 🛠 Tech Stack
 
-## Framework & Library
-- Backend: Spring Boot, ASP.NET, FastAPI, Express, Node.js, Next.js (SSR)  
-- Frontend: Next.js (Client-side), React, TailwindCSS, Three.js, Styled Components  
-- Cloud: AWS, Google Cloud Platform  
-- DevOps: Docker, Nginx, Jenkins, GitHub Actions  
-- Machine Learning: Scikit-Learn, PyTorch, TensorFlow  
+**Languages**
+- C++, Python, C, SQL, Java, JavaScript, TypeScript, Kotlin
+
+**Systems & High-Performance Computing**
+- **Low-Level:** Linux/Unix Systems Programming, kqueue/epoll (Event-driven I/O)
+- **Parallelism:** Multi-threading, Lock-free Data Structures, SIMD (ARM NEON)
+- **Optimization:** Memory Management, Computer Architecture
+
+**Infrastructure & DevOps**
+- **Cloud:** AWS, GCP
+- **Containers:** Docker, Kubernetes (K8s)
+- **Middleware & CI/CD:** Redis, Nginx, Jenkins, GitHub Actions
+
+**Data Engineering & Optimization**
+- **Databases:** PostgreSQL, MySQL (Query Optimization)
+- **Vector DB & Warehouse:** Snowflake, Pinecone, Milvus
+- **AI Infra:** RAG Pipelines, FastMCP
+
+**Backend Frameworks**
+- Spring Boot, FastAPI, Node.js
 
 
