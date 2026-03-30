@@ -23,7 +23,7 @@ I value writing **clean** and **easy-to-understand** code for my teammates. I be
 - **Optimization:** Memory Management, Computer Architecture
 
 **Infrastructure & DevOps**
-- **Cloud:** AWS, GCP
+- **Cloud:** Azure, AWS, GCP
 - **Containers:** Docker, Kubernetes (K8s)
 - **Middleware & CI/CD:** Redis, Nginx, Jenkins, GitHub Actions
 
