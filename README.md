@@ -6,7 +6,9 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 
 ## 💻 Internship Experience
 
-Software Engineering Intern, Azure Compute @ [Microsoft](https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp) (`Summer 2026`)  
+![Microsoft](https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure_Compute-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+Software Engineering Intern, Azure Compute @ [Microsoft](https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp) (Summer 2026)  
 Software Engineering Intern, Autonomous Agent Infra @ [Itential](https://www.itential.com/) (Spring 2026)  
 Software Engineering Intern, AI & Search Infra @ [Genuine Parts Company](https://www.genpt.com/) (Summer 2025)  
 Founding Software Engineer @ Stride Labs (Oct 2024 - Apr 2025)  
