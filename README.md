@@ -1,11 +1,7 @@
 ### ⚡ Nowadays I am grinding...
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="[https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif](https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif)" width="450"/>
 </p>
 
 I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I’m driven by **Mechanical Sympathy** and understanding the metal to write better software.
@@ -14,8 +10,6 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 - Minimizing latencies to the absolute limit.
 - Implementing lock-free, concurrent data structures.
 - Ensuring strict system determinism and predictability.
-
----
 
 ### 🚀 The most cherished projects I am currently building...
 
@@ -29,8 +23,6 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
   - Leveraged **SIMD (ARM NEON)** for vectorized price calculation and batch processing.
   - Implemented custom memory pools to bypass standard allocator overhead.
 
----
-
 ### 💼 Internship Experience
 
 * **Microsoft** | Software Engineering Intern, *Azure Compute* `Summer 2026`
@@ -39,8 +31,6 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 * **Stride Labs** | Founding Software Engineer `Oct 2024 - Apr 2025`
 * **Republic of Korea Army** | Network System Engineer `Sep 2022 - Mar 2024`
 * **WPI** | Software Engineering Intern, *Web Systems* `Spring 2022`
-
----
 
 ### 🛠 Tech Stack
 
@@ -54,11 +44,17 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 - **DevOps:** Docker, Kubernetes, GitHub Actions, Redis, Nginx
 - **Data/AI:** Snowflake, PostgreSQL, Pinecone, Milvus, RAG Pipelines, FastMCP
 
----
-
 ### ✉️ Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewook.park.dev@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewook-park/)
+
+<br>
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true)" alt="Overall Stats" height="180"/>
+  <img src="[https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true)" alt="GitHub Streak" height="180"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Langs" height="180"/>
+</p>
 
 <p align="right">
   <i>Every microsecond counts.</i>
