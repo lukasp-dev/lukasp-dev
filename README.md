@@ -6,12 +6,12 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 
 ## 💻 Internship Experience
 
-Software Engineering Intern, Azure Compute @ [Microsoft](https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp) (Summer 2026) //
-Software Engineering Intern, Autonomous Agent Infra @ [Itential](https://www.itential.com/) (Spring 2026) //
-Software Engineering Intern, AI & Search Infra @ [Genuine Parts Company](https://www.genpt.com/) (Summer 2025) //
-Founding Software Engineer @ Stride Labs (Oct 2024 - Apr 2025) //
-Network System Engineer @ Republic of Korea Army (Sep 2022 - Mar 2024) //
-Software Engineering Intern, Web Systems @ [Worcester Polytechnic Institute](https://www.wpi.edu/) (Spring 2022) //
+Software Engineering Intern, Azure Compute @ [Microsoft](https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp) (Summer 2026)  
+Software Engineering Intern, Autonomous Agent Infra @ [Itential](https://www.itential.com/) (Spring 2026)  
+Software Engineering Intern, AI & Search Infra @ [Genuine Parts Company](https://www.genpt.com/) (Summer 2025)  
+Founding Software Engineer @ Stride Labs (Oct 2024 - Apr 2025)  
+Network System Engineer @ Republic of Korea Army (Sep 2022 - Mar 2024)  
+Software Engineering Intern, Web Systems @ [Worcester Polytechnic Institute](https://www.wpi.edu/) (Spring 2022)
 
 ## Contact
 📧 jewook.park.dev@gmail.com
