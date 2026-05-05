@@ -2,6 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
 </p>
 
+![My Beloved Programming](https://media1.tenor.com/m/5JYkFx6Ye48AAAAC/my-beloved-programming.gif)
+
 I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I'm obsessed with minimizing latencies, implementing lock-free data structures, and ensuring system determinism. I’m driven by Mechanical Sympathy and understanding the metal to write better software. Open to all opportunities involving the design and operation of large-scale systems.
 
 ## 💻 Internship Experience
