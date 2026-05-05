@@ -48,14 +48,9 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewook.park.dev@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewook-park/)
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/output.gif" alt="Terminal OS Profile" width="700" />
-</div>
-
-<p align="right">
-  <i>Every microsecond counts.</i>
-</p>
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=lukasp-dev&bg_color=180,00000000,&title_color=000000&text_color=000000"
+       /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
+         /> </div> 
+  </div>
+    
