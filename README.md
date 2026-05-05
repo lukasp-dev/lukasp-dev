@@ -12,9 +12,7 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 - Ensuring strict system determinism and predictability.
 - Applying **Mechanical Sympathy** to understanding the metal for better software.
 
----
-
-## 💼 Internship Experience
+### 💼 Internship Experience
 
 * **Microsoft** | Software Engineering Intern, *Azure Compute* `Summer 2026`
 * **Itential** | Software Engineering Intern, *Autonomous Agent Infra* `Spring 2026`
@@ -23,23 +21,21 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 * **Republic of Korea Army** | Network System Engineer `Sep 2022 - Mar 2024`
 * **WPI** | Software Engineering Intern, *Web Systems* `Spring 2022`
 
----
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### 💻 Systems & High-Performance
+#### 💻 Systems & High-Performance
 - **Parallelism:** Multi-threading, Lock-free Data Structures, SIMD (ARM NEON)
 - **Low-Level:** Linux/Unix Systems Programming, kqueue/epoll (Event-driven I/O)
 - **Core:** `C++20`, `C`, `Python`, `SQL`, `Java`
 
-### ☁️ Infrastructure & Data
+#### ☁️ Infrastructure & Data
 - **Cloud:** Azure, AWS, GCP
 - **DevOps:** Docker, Kubernetes, GitHub Actions, Redis, Nginx
 - **Data/AI:** Snowflake, PostgreSQL, Pinecone, Milvus, RAG Pipelines
 
----
 
-## ✉️ Contact
+### ✉️ Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewook.park.dev@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewook-park/)
 
