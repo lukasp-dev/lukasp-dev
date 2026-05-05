@@ -39,6 +39,8 @@ Software Engineering Intern, Web Systems @ [Worcester Polytechnic Institute](htt
 **Backend Frameworks**
 - Spring Boot, FastAPI, Node.js
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Jewook's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Jewook's Top Languages" />
+</p>
 
-![](https://raw.githubusercontent.com/lukasp-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lukasp-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
