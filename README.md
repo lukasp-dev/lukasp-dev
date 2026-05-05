@@ -51,7 +51,9 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 <br>
 
 <div align="center">
-  <img src="./output.gif" alt="Terminal Profile" width="700" />
+  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/output.gif" alt="Terminal OS Profile" width="700" />
 </div>
 
 <p align="right">
