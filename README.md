@@ -2,41 +2,44 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
 </p>
 
+### ⚡ Nowadays I am grinding...
 ![My Beloved Programming](https://media1.tenor.com/m/5JYkFx6Ye48AAAAC/my-beloved-programming.gif)
 
-I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I'm obsessed with minimizing latencies, implementing lock-free data structures, and ensuring system determinism. I’m driven by Mechanical Sympathy and understanding the metal to write better software. Open to all opportunities involving the design and operation of large-scale systems.
+I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I'm obsessed with minimizing latencies, implementing lock-free data structures, and ensuring system determinism. I’m driven by **Mechanical Sympathy** and understanding the metal to write better software.
 
-## 💻 Internship Experience
+---
 
-Software Engineering Intern, Azure Compute @ [Microsoft](https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp) (Summer 2026)  
-Software Engineering Intern, Autonomous Agent Infra @ [Itential](https://www.itential.com/) (Spring 2026)  
-Software Engineering Intern, AI & Search Infra @ [Genuine Parts Company](https://www.genpt.com/) (Summer 2025)  
-Founding Software Engineer @ Stride Labs (Oct 2024 - Apr 2025)  
-Network System Engineer @ Republic of Korea Army (Sep 2022 - Mar 2024)  
-Software Engineering Intern, Web Systems @ [Worcester Polytechnic Institute](https://www.wpi.edu/) (Spring 2022)
+## 💼 Internship Experience
 
-## Contact
-📧 jewook.park.dev@gmail.com
+* **Microsoft** | Software Engineering Intern, *Azure Compute* `Summer 2026`
+* **Itential** | Software Engineering Intern, *Autonomous Agent Infra* `Spring 2026`
+* **Genuine Parts Company** | Software Engineering Intern, *AI & Search Infra* `Summer 2025`
+* **Stride Labs** | Founding Software Engineer `Oct 2024 - Apr 2025`
+* **Republic of Korea Army** | Network System Engineer `Sep 2022 - Mar 2024`
+* **WPI** | Software Engineering Intern, *Web Systems* `Spring 2022`
 
-### 🛠 Tech Stack
+---
 
-**Languages**
-- C++, Python, C, SQL, Java, JavaScript, TypeScript, Kotlin
+## 🛠 Tech Stack
 
-**Systems & High-Performance Computing**
+### 💻 Systems & High-Performance
+> *Mechanical Sympathy & Low-Level Optimization*
+
 - **Low-Level:** Linux/Unix Systems Programming, kqueue/epoll (Event-driven I/O)
 - **Parallelism:** Multi-threading, Lock-free Data Structures, SIMD (ARM NEON)
-- **Optimization:** Memory Management, Computer Architecture
+- **Languages:** `C++`, `C`, `Python`, `SQL`, `Java`, `TypeScript`, `Kotlin`
 
-**Infrastructure & DevOps**
+### ☁️ Infrastructure & Data
 - **Cloud:** Azure, AWS, GCP
-- **Containers:** Docker, Kubernetes (K8s)
-- **Middleware & CI/CD:** Redis, Nginx, Jenkins, GitHub Actions
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, Redis, Nginx
+- **Data/AI:** Snowflake, PostgreSQL, Pinecone, Milvus, RAG Pipelines, FastMCP
 
-**Data Engineering & Optimization**
-- **Databases:** PostgreSQL, MySQL (Query Optimization)
-- **Vector DB & Warehouse:** Snowflake, Pinecone, Milvus
-- **AI Infra:** RAG Pipelines, FastMCP
+---
 
-**Backend Frameworks**
-- Spring Boot, FastAPI, Node.js
+## ✉️ Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewook.park.dev@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewook-park/)
+
+<p align="right">
+  <i>Every microsecond counts.</i>
+</p>
