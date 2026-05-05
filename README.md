@@ -38,3 +38,7 @@ Software Engineering Intern, Web Systems @ [Worcester Polytechnic Institute](htt
 
 **Backend Frameworks**
 - Spring Boot, FastAPI, Node.js
+
+
+![](https://raw.githubusercontent.com/lukasp-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lukasp-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
