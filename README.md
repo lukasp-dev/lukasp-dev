@@ -51,9 +51,7 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" />
-  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="./output.gif" alt="Terminal Profile" width="700" />
 </div>
 
 <p align="right">
