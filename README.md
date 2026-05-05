@@ -1,8 +1,8 @@
 ### ⚡ Nowadays I am grinding...
 
-<p align="center">
-  <img src="[https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif](https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif)" width="450"/>
-</p>
+<div align="center">
+  <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="450" />
+</div>
 
 I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I’m driven by **Mechanical Sympathy** and understanding the metal to write better software.
 
@@ -50,11 +50,11 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 
 <br>
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true)" alt="Overall Stats" height="180"/>
-  <img src="[https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true)" alt="GitHub Streak" height="180"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Langs" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukasp-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" />
+  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 <p align="right">
   <i>Every microsecond counts.</i>
