@@ -1,56 +1,53 @@
-### ⚡ Nowadays I am grinding...
+### ⚡ Systems Architect | Low-Latency Specialist
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="450" />
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="550"/>
+</p>
 
-I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I’m driven by **Mechanical Sympathy** and understanding the metal to write better software.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-**Key Technical Interests:**
-- Minimizing latencies to the absolute limit.
-- Implementing lock-free, concurrent data structures.
-- Ensuring strict system determinism and predictability.
+> **"Hardware is the ceiling, software is the effort."**
+> I specialize in hardware-software co-design and distributed systems where performance isn't a feature—it's the core constraint. I build for sub-millisecond determinism and maximum throughput.
 
-### 🚀 The most cherished projects I am currently building...
+---
 
-* **Lumina** | *Low-Latency In-Memory Engine*
-  - Developing a high-performance engine from scratch using `C++20` and `kqueue`.
-  - Optimized for **ARM64** architectures with custom binary RPC and zero-copy serialization.
-  - Achieving deterministic sub-millisecond latencies for high-throughput data processing.
+### 🎯 Current Focus: The "Race to Zero"
+* **Mechanical Sympathy:** Optimizing for L1/L2 cache locality and branch prediction.
+* **Concurrency:** Designing wait-free and lock-free primitives for multi-core scaling.
+* **I/O Excellence:** Mastering `kqueue/epoll` and custom binary RPC protocols.
+* **Determinism:** Eliminating jitter and GC-induced latency in mission-critical paths.
 
-* **High-Performance Auction Engine** | *System-level Optimization*
-  - Built an order-matching engine focusing on **Lock-free Data Structures** to eliminate thread contention.
-  - Leveraged **SIMD (ARM NEON)** for vectorized price calculation and batch processing.
-  - Implemented custom memory pools to bypass standard allocator overhead.
+---
 
-### 💼 Internship Experience
+### 💼 Engineering Impact
 
-* **Microsoft** | Software Engineering Intern, *Azure Compute* `Summer 2026`
-* **Itential** | Software Engineering Intern, *Autonomous Agent Infra* `Spring 2026`
-* **Genuine Parts Company** | Software Engineering Intern, *AI & Search Infra* `Summer 2025`
+* **Microsoft** | SWE Intern, *Azure Compute (Low-Level Infra)* `Summer 2026`
+* **Itential** | SWE Intern, *Autonomous Agent Infra* `Spring 2026`
+* **Genuine Parts Company** | SWE Intern, *AI & Search Infra* `Summer 2025`
 * **Stride Labs** | Founding Software Engineer `Oct 2024 - Apr 2025`
 * **Republic of Korea Army** | Network System Engineer `Sep 2022 - Mar 2024`
-* **WPI** | Software Engineering Intern, *Web Systems* `Spring 2022`
 
-### 🛠 Tech Stack
+---
 
-#### 💻 Systems & High-Performance
-- **Parallelism:** Multi-threading, Lock-free Data Structures, SIMD (ARM NEON)
-- **Low-Level:** Linux/Unix Systems Programming, kqueue/epoll (Event-driven I/O)
-- **Core:** `C++20`, `C`, `Python`, `SQL`, `Java`, `TypeScript`, `Kotlin`
+### 🛠 The Toolbelt
 
-#### ☁️ Infrastructure & Data
-- **Cloud:** Azure, AWS, GCP
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Redis, Nginx
-- **Data/AI:** Snowflake, PostgreSQL, Pinecone, Milvus, RAG Pipelines, FastMCP
+| Layer | Technologies |
+| :--- | :--- |
+| **The Metal** | C++20, C, ARM NEON (SIMD), Multi-threading (Atomics) |
+| **The OS** | Linux/Unix Kernel, kqueue/epoll, POSIX Threads, Lock-free DS |
+| **The Cloud** | Azure (Compute), AWS, GCP, Docker, Kubernetes |
+| **The Data** | Redis (Performance Tier), Snowflake, PostgreSQL, Vector DBs |
 
-### ✉️ Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewook.park.dev@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewook-park/)
+---
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=lukasp-dev&bg_color=180,00000000,&title_color=000000&text_color=000000"
-       /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasp-dev&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> </div> 
-  </div>
-    
+### 📡 Network & Reach
+<div align="left">
+  <a href="mailto:jewook.park.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jewook-park/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
