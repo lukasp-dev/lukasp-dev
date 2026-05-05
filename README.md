@@ -1,11 +1,16 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
+### ⚡ Nowadays I am grinding...
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="450"/>
 </p>
 
-### ⚡ Nowadays I am grinding...
-![My Beloved Programming](https://media1.tenor.com/m/5JYkFx6Ye48AAAAC/my-beloved-programming.gif)
+I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture.
 
-I build high-performance systems where every CPU cycle and microsecond matters. I focus on hardware-software co-design and scalable distributed architecture. I'm obsessed with minimizing latencies, implementing lock-free data structures, and ensuring system determinism. I’m driven by **Mechanical Sympathy** and understanding the metal to write better software.
+**Key Technical Interests:**
+- Minimizing latencies to the absolute limit.
+- Implementing lock-free, concurrent data structures.
+- Ensuring strict system determinism and predictability.
+- Applying **Mechanical Sympathy** to understanding the metal for better software.
 
 ---
 
@@ -23,16 +28,14 @@ I build high-performance systems where every CPU cycle and microsecond matters. 
 ## 🛠 Tech Stack
 
 ### 💻 Systems & High-Performance
-> *Mechanical Sympathy & Low-Level Optimization*
-
-- **Low-Level:** Linux/Unix Systems Programming, kqueue/epoll (Event-driven I/O)
 - **Parallelism:** Multi-threading, Lock-free Data Structures, SIMD (ARM NEON)
-- **Languages:** `C++`, `C`, `Python`, `SQL`, `Java`, `TypeScript`, `Kotlin`
+- **Low-Level:** Linux/Unix Systems Programming, kqueue/epoll (Event-driven I/O)
+- **Core:** `C++20`, `C`, `Python`, `SQL`, `Java`
 
 ### ☁️ Infrastructure & Data
 - **Cloud:** Azure, AWS, GCP
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, Redis, Nginx
-- **Data/AI:** Snowflake, PostgreSQL, Pinecone, Milvus, RAG Pipelines, FastMCP
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Redis, Nginx
+- **Data/AI:** Snowflake, PostgreSQL, Pinecone, Milvus, RAG Pipelines
 
 ---
 
