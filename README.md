@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Hi, I'm Jewook Park, an aspiring Software Engineer @ Georgia Tech. I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
+Hi, I'm Jewook Park, an aspiring Software Engineer studying @ Georgia Tech. I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
 I am building **Lumina**, a **C++20 in-memory key-value engine** optimized for **write-intensive** environments. It achieves sub-millisecond latency using a **latch-free hash index** and **zero-copy RPC** to eliminate lock contention and syscall overhead on ARM64.
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
