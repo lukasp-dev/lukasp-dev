@@ -3,7 +3,6 @@
 </p>
 <p align="left">
   <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:jewook.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
