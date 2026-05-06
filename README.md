@@ -1,14 +1,10 @@
 # Hi, I am Jewook! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJtMndkaDI0aHFtNmpobzI5MnIyejFrdXk2aDdwd296aTkzZDRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" height="30px"> 
 
-<a href="https://jewook.com">
-  <img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:jewook.park.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/jewook-park/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:jewook.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
 `I am currently grinding...`
 
