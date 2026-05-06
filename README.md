@@ -8,18 +8,22 @@
   <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I am currently grinding... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJtMndkaDI0aHFtNmpobzI5MnIyejFrdXk2aDdwd296aTkzZDRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" height="30px"> 
+I am currently grinding Low Level programming in C++.
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" height="200" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-> **"Hardware is the ceiling, software is the effort."**
-> I specialize in hardware-software co-design and distributed systems where performance is the core constraint. I build for sub-millisecond determinism and maximum throughput.
+I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
+I am building **Lumina**, a **C++20 in-memory key-value engine** optimized for **write-intensive** environments. It achieves sub-millisecond latency using a **latch-free hash index** and **zero-copy RPC** to eliminate lock contention and syscall overhead on ARM64.
 
 <p align="center">
   <img width="49%" alt="Intro" src="https://github.com/user-attachments/assets/41e72963-2d6c-475d-87a8-6ad145936936" />
@@ -41,3 +45,4 @@ I am currently grinding... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5M
 
 **`Infrastructure & Data`**
 `Azure`, `AWS`, `GCP`, `Docker`, `Kubernetes`, `GitHub Actions`, `Redis (Performance Tier)`, `Snowflake`, `PostgreSQL`, `Vector DBs`
+
