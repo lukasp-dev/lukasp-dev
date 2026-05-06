@@ -7,13 +7,8 @@
   <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Hi, I'm Jewook Park, an aspiring Software Engineer @ Georgia Tech.
-
-<p align="center">
-  <img width="100%" alt="Intro" src="https://github.com/user-attachments/assets/41e72963-2d6c-475d-87a8-6ad145936936" />
-</p>
-
-I am currently grinding Low Level programming in C++.
+Hi, I'm Jewook Park, an aspiring Software Engineer @ Georgia Tech. I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
+I am building **Lumina**, a **C++20 in-memory key-value engine** optimized for **write-intensive** environments. It achieves sub-millisecond latency using a **latch-free hash index** and **zero-copy RPC** to eliminate lock contention and syscall overhead on ARM64.
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -27,11 +22,11 @@ I am currently grinding Low Level programming in C++.
   </table>
 </div>
 
-I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
-I am building **Lumina**, a **C++20 in-memory key-value engine** optimized for **write-intensive** environments. It achieves sub-millisecond latency using a **latch-free hash index** and **zero-copy RPC** to eliminate lock contention and syscall overhead on ARM64.
+
 
 <p align="center">
-  <img width="100%" alt="Project" src="https://github.com/user-attachments/assets/637b858d-eb63-4524-b0f5-120a4282a6ae" />
+  <img width="49%" alt="Intro" src="https://github.com/user-attachments/assets/41e72963-2d6c-475d-87a8-6ad145936936" />
+  <img width="50%" alt="Project" src="https://github.com/user-attachments/assets/637b858d-eb63-4524-b0f5-120a4282a6ae" />
 </p>
 
 ### 💼 Work Experience
