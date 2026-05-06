@@ -1,4 +1,6 @@
-# Hi, I am Jewook! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJtMndkaDI0aHFtNmpobzI5MnIyejFrdXk2aDdwd296aTkzZDRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" height="30px"> 
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
+</p>
 
 <p align="left">
   <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
@@ -6,7 +8,7 @@
   <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-`I am currently grinding...`
+I am currently grinding... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJtMndkaDI0aHFtNmpobzI5MnIyejFrdXk2aDdwd296aTkzZDRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" height="30px"> 
 
 <p align="center">
   <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" width="500"/>
