@@ -1,18 +1,16 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
 </p>
+<p align="left">
+  <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:jewook.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
 Hi, I'm Jewook Park, an aspiring Software Engineer @ Georgia Tech.
 
 <p align="center">
   <img width="100%" alt="Intro" src="https://github.com/user-attachments/assets/41e72963-2d6c-475d-87a8-6ad145936936" />
-</p>
-
-
-<p align="left">
-  <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:jewook.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 I am currently grinding Low Level programming in C++.
