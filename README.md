@@ -2,6 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jewook%20Park&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20who%20loves%20building%20impactful%20things.&descAlignY=60&descAlign=50"/>
 </p>
 
+Hi, I'm Jewook Park, an aspiring Software Engineer @ Georgia Tech.
+
+<p align="center">
+  <img width="100%" alt="Intro" src="https://github.com/user-attachments/assets/41e72963-2d6c-475d-87a8-6ad145936936" />
+</p>
+
+
 <p align="left">
   <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:jewook.park.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -24,10 +31,6 @@ I am currently grinding Low Level programming in C++.
 
 I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
 I am building **Lumina**, a **C++20 in-memory key-value engine** optimized for **write-intensive** environments. It achieves sub-millisecond latency using a **latch-free hash index** and **zero-copy RPC** to eliminate lock contention and syscall overhead on ARM64.
-
-<p align="center">
-  <img width="100%" alt="Intro" src="https://github.com/user-attachments/assets/41e72963-2d6c-475d-87a8-6ad145936936" />
-</p>
 
 <p align="center">
   <img width="100%" alt="Project" src="https://github.com/user-attachments/assets/637b858d-eb63-4524-b0f5-120a4282a6ae" />
