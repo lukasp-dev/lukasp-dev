@@ -3,7 +3,7 @@
 </p>
 <p align="left">
   <a href="https://jewook.com"><img src="https://img.shields.io/badge/Website-121013?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jewook-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jewookpark/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 Hi, I'm Jewook Park, an aspiring Software Engineer studying @ Georgia Tech. I specialize in hardware-software co-design and distributed systems where performance is the core constraint. 
