@@ -13,9 +13,6 @@ Hi, I'm Jewook Park, an aspiring Software Engineer studying @ Georgia Tech. I sp
       <td align="center" width="50%">
         <img src="https://media1.tenor.com/m/vNP0h04jr0AAAAAd/flag-code.gif" height="200" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=lukasp-dev&theme=tokyonight&hide_border=true" height="200" />
-      </td>
     </tr>
   </table>
 </div>
