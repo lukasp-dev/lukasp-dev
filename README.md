@@ -40,3 +40,6 @@ Hi, I'm Jewook Park, an aspiring Software Engineer studying @ Georgia Tech. I sp
 **`Infrastructure & Data`**
 `Azure`, `AWS`, `GCP`, `Docker`, `Kubernetes`, `GitHub Actions`, `Redis (Performance Tier)`, `Snowflake`, `PostgreSQL`, `Vector DBs`
 
+### Resume
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13Goohb1iIPx3fZLV62_9PYcfhBDG15cK/view?usp=sharing)
+
